@@ -1,0 +1,217 @@
+Pattern: Hi there
+Response:
+- Hello!
+- Hey, how can I assist you?
+- Hi! What can I do for you today?
+
+Pattern: How are you
+Response:
+- Good to see you again
+- Doing well, thank you!
+- I'm fine, thanks! How about you?
+
+Pattern: Is anyone there?
+Response:
+- Hi there, how can I help?
+- Hello! Need any assistance?
+- Yes, I'm here. How can I assist you?
+
+Pattern: Hey
+Response:
+- Hello!
+- Hi there, how can I help?
+- Hey! How can I assist you today?
+
+Pattern: hi
+Response:
+- Hello!
+- Hi! How can I help you?
+- Hi there, how can I assist?
+
+Pattern: Hola
+Response:
+- Hi there, how can I help?
+- Hello!
+- Hola! How can I assist you?
+
+Pattern: Hello
+Response:
+- Good to see you again
+- Hello! How can I assist you today?
+- Hi there, how can I help?
+
+Pattern: Good day
+Response:
+- Hi there, how can I help?
+- Hello! Need any assistance?
+- Good day! How can I assist you?
+
+Pattern: yo
+Response:
+- Hello!
+- Hey, how can I assist you?
+- Hi! What can I do for you today?
+
+Pattern: what's up
+Response:
+- Hello!
+- Hi there, how can I assist?
+- Hey! How can I assist you today?
+
+Pattern: hello
+Response:
+- Good to see you again
+- Hello! Need any assistance?
+- Hi there, how can I help?
+
+Pattern: hey
+Response:
+- Hello!
+- Hey, how can I assist you?
+- Hi! What can I do for you today?
+
+Pattern: Who are you?
+Response:
+- I am Sherbot, a bot designed to provide accurate legal advice and resources if you need any help, or are in distress. Feel free to let me know any problems!
+- I provide legal advice straight from the books pertaining to the Indian Jurisdiction and can guide to take the right steps to solve your problems. Go ahead and ask me anything!
+
+Pattern: What do you do?
+Response:
+- I provide legal advice straight from the books pertaining to the Indian Jurisdiction and can guide to take the right steps to solve your problems. Go ahead and ask me anything!
+- I am here to assist with any legal queries you might have within the Indian Jurisdiction. Feel free to ask!
+- I am designed to provide accurate legal advice and resources if you need any help, or are in distress.
+
+Pattern: Is my information secure?
+Response:
+- Yes, your information is secure. We do not store any information of yours.
+- Rest assured, we don't store any of your information. It's secure.
+- Absolutely, your information is secure with us.
+
+Pattern: Who is your creator?
+Response: 
+- I was created by the team "Voyage" during the Cisco Thingqbator challenge to provide accurate legal advice and resources if you need any help, or are in distress. Feel free to let me know any problems!
+
+Pattern: Bye
+Response:
+- See you!
+- Have a nice day
+- Bye! Come back again soon.
+
+Pattern: bye
+Response:
+- See you!
+- Have a nice day
+- Bye! Come back again soon.
+
+Pattern: See you later
+Response:
+- Have a nice day
+- See you!
+- Bye! Come back again soon.
+
+Pattern: Goodbye
+Response:
+- Bye! Come back again soon.
+- See you!
+- Have a nice day
+
+Pattern: Nice chatting to you, bye
+Response:
+- Bye! Come back again soon.
+- See you!
+- Have a nice day
+
+Pattern: Till next time
+Response:
+- Bye! Come back again soon.
+- See you!
+- Have a nice day
+
+Pattern: Thanks
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: thanks!
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: thanks
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: Thanks a lot!
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: thx
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: thanks a lot
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: Thank you
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: That's helpful
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: Awesome, thanks
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: Thanks for helping me
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: okay thanks
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: okay thank you
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern: ok
+Response:
+- Feel free to ask more!
+
+Pattern: ok thanks
+Response:
+- Happy to help!
+- Any time!
+- My pleasure
+
+Pattern:[]
+Response:
+- Sorry, can't understand you
+- Please give me more info
+- Not sure I understand
+
