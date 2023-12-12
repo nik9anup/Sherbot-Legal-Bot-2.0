@@ -1,0 +1,6 @@
+# Create a virtual environment named 'env'
+virtualenv env
+
+# Activate the virtual environment (Windows)
+.\env\Scripts\activate
+
