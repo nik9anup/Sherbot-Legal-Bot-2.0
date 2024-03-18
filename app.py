@@ -11,7 +11,7 @@ from langchain.memory import ConversationBufferMemory
 app = Flask(__name__)
 
 # Set OpenAI API key as an environment variable
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "INSERT_OPENAI_KEY"
 
 # Load documents using DirectoryLoader
 loader = DirectoryLoader("data", glob="*.txt")
