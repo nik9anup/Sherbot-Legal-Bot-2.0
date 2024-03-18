@@ -7,4 +7,4 @@ Libraries used: nltk, langchain, openai, unstructured </br>
 LLM: OPENAI text-davinci-003, text-ada-002 </br>
 </br>
 
-Sherbot is a chatbot made for the Voyage App, as part of my ML role for the Voyage team in the Cisco Thingqbator Challenge 2023. We are ranked among the top 30 teams in India and were able to present a working prototype of the app.
+Sherbot is a chatbot made for the Voyage App, as part of my ML role for the Voyage team in the Cisco Thingqbator Challenge 2023. We are ranked among the top 30 teams in India and were able to present a working prototype of the app. Refer: https://github.com/Voyage-CiscoThingQbator
